@@ -3,6 +3,8 @@
 Display YouTube Live video views, likes, and comments count using HTML, CSS, and JavaScript, utilizing the 
 https://github.com/badges/shields API for fetching..
 
+# Note: Don't Fetch The Youtube Live Streaming Videos Url...
+
 # Search Here:
 
 https://yashawanthtechprojects.on.drv.tw/Youtube.html
